@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# CareerTailor AI
 
 CareerTailor AI is a single-page React app that helps you turn your professional history into tailored application materials. It lets you build a "Career Vault" of experiences, import LinkedIn text, and then generate a resume, cover letter, and interview tips using Gemini.
@@ -80,3 +81,6 @@ npm run preview
 ## Troubleshooting
 - If generation fails, check the backend console for errors and verify your key.
 - If the LinkedIn import returns empty results, try a smaller portion of the profile text.
+=======
+# career-tailor-ai
+>>>>>>> c0f9e41772ff9af458ca40108453a5a0d966b6f9
