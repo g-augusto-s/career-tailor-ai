@@ -1,0 +1,5 @@
+{
+  "name": "CareerTailor AI",
+  "description": "A high-performance system that uses your professional trajectory and business cases as context (RAG-style) to generate perfectly tailored resumes and cover letters for specific job opportunities.",
+  "requestFramePermissions": []
+}

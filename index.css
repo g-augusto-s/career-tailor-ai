@@ -1,0 +1,8 @@
+﻿/* Global styles for small overrides (Tailwind handles most styling) */
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+}
